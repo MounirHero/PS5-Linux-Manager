@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="AppTheme" parent="android:Theme.Material.NoActionBar">
+        <item name="android:windowBackground">@color/abyss</item>
+        <item name="android:colorBackground">@color/abyss</item>
+        <item name="android:colorPrimary">@color/ps_blue</item>
+        <item name="android:colorAccent">@color/ps_blue</item>
+        <item name="android:statusBarColor">@color/abyss</item>
+        <item name="android:navigationBarColor">@color/abyss</item>
+        <item name="android:windowLightStatusBar">false</item>
+        <item name="android:textColorPrimary">@color/text</item>
+        <item name="android:textColorSecondary">@color/text_dim</item>
+    </style>
+</resources>

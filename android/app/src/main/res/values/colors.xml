@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="abyss">#05070B</color>
+    <color name="panel">#0B1018</color>
+    <color name="panel_edge">#1A2331</color>
+    <color name="ps_blue">#0072CE</color>
+    <color name="amber">#FFA028</color>
+    <color name="text">#E8EDF5</color>
+    <color name="text_dim">#8A94A6</color>
+</resources>
