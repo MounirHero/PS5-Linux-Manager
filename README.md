@@ -2,9 +2,11 @@
 
 **by InsideMatrix**
 
-A Payload Manager–style control center for PS5 Linux on jailbroken consoles.
-An ELF payload that serves a dark, firmware-grade web UI (`http://<ps5-ip>:8090`)
+A Payload control center for PS5 Linux on jailbroken consoles.
+An ELF payload that serves web UI (`http://<ps5-ip>:8090`)
 to configure everything about booting Linux on your PS5 — and to boot it.
+built in payload managment.
+built in file manager.
 
 ![webui](https://img.shields.io/badge/webui-React%2019%20%2B%20Tailwind-0072CE)
 ![payload](https://img.shields.io/badge/payload-ps5--payload--sdk%20C11-FFA028)
