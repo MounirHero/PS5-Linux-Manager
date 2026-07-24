@@ -23,7 +23,7 @@ built in file manager.
 | **Dashboard** | Live console status (real console name + CFI model code), boot-readiness checklist, one-click **Boot Linux** |
 | **Boot Config** | USB device selector (usb0–usb3) + management of the device **root**: `bzImage`, `initrd.img`, `cmdline.txt` (chip editor + presets), `vram.txt` (1–16 GB slider), pre-flight validation |
 | **BIOS Settings** | Console-BIOS-utility aesthetic: display, boot (root device, boot mode, kernel params), hardware (VRAM, CPU governor), services (SSH) — CMOS-style save bar |
-| **Dual Boot / GRUB** | Drag-to-reorder boot entries (PS5 Linux / Orbis OS / custom payloads), default entry, timeout, auto-boot, live GRUB menu preview with ticking countdown, generated `grub.cfg` |
+| **Dual Boot / GRUB  WIP** | Drag-to-reorder boot entries (PS5 Linux / Orbis OS / custom payloads), default entry, timeout, auto-boot, live GRUB menu preview with ticking countdown, generated `grub.cfg` |
 | **Payloads** | Upload `.elf` files (stored in `/data/PS5_LINUX_MANAGER/PAYLOADS/`) and **serve them to the console's ELF loader on port 9021** |
 | **Files** | Real console file manager: browse the whole filesystem, edit text configs, copy/cut/paste, rename, delete, new folder — files **and** folders |
 | **FTP Server** | Embedded FTP daemon (default port 2121, optional auth) for PC clients |
