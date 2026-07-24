@@ -1,6 +1,7 @@
 # PS5 Linux Manager
-
 **by InsideMatrix**
+
+made by the community for the community :)
 
 A Payload control center for PS5 Linux on jailbroken consoles.
 An ELF payload that serves web UI (`http://<ps5-ip>:8090`)
@@ -76,7 +77,7 @@ nc -q0 <PS5_IP> 9021 < ps5-linux-manager.elf
 `android/` builds `PS5LinuxManager.apk` — a dark-themed companion with:
 
 - **Systems** — saved connections (name + IP + port); preset for PS5 Linux
-  Manager `:8090`, plus custom entries for other webUIs (Payload Manager, etaHEN…)
+  Manager `:8090`, plus custom entries for other webUIs (Payload Manager, elf arsenal, PegasusDL…)
 - **WebView console** — opens the selected system full-screen
 - **Payload Sender** — pick an `.elf` on your phone, enter IP + port (default
   9021), stream it to the console with live progress
